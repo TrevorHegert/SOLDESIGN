@@ -1,0 +1,22 @@
+{
+  "name": "sol_design",
+  "version": "1.0.0",
+  "description": "Potential Upgrade to Presentation of soldesignco.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorHegert/SOLDESIGN.git"
+  },
+  "author": "Trevor N. Hegert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrevorHegert/SOLDESIGN/issues"
+  },
+  "homepage": "https://github.com/TrevorHegert/SOLDESIGN#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
